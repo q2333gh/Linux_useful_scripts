@@ -12,6 +12,8 @@ sudo visudo
 # sudo EDITOR=vim visudo
 
 # maybe echo this conetent in ? 
+
+append this into :
 user_name ALL=(ALL) NOPASSWD:ALL
 
 
